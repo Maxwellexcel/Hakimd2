@@ -1,15 +1,15 @@
 {
-               "name": "secktor-md",
+               "name": "haki-md",
                "version": "0.0.7",
                "description": "Multi device whatsapp bot by SamPandey001.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name secktor",
-                "stop": "pm2 stop secktor"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name haki",
+                "stop": "pm2 stop haki"
                 },
-               "author": "SamPandey001",
+               "author": "HAKI",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
