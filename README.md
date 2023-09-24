@@ -1,6 +1,6 @@
   <p align="center">  
   <a href="https://secktoruserbot.onrender.com/">
-    <img alt="secktor docs" height="300" src=" https://flamingtext.com/logo/Design-Water-Name?text=Haki ">
+    <img alt="https://flamingtext.com/logo/Design-Water-Name?text=Haki" height="300" src="https://flamingtext.com/logo/Design-Water-Name?text=Haki ">
     <h1 align="center">Haki MD Whatsapp bot</h1>
   </a>
 </p>
